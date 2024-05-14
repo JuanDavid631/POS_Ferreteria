@@ -5,7 +5,7 @@
 ## Módulos Destacados 🌟
 
 - 📂 **Inventario**
-- 📚 **Ventas** Recopilación de tutoriales, documentación y enlaces útiles.
+- 📚 **Ventas**
 - 💻 **Configuración** 
 
 ¡Gracias por visitar! 👋
