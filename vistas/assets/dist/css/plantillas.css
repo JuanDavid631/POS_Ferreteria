@@ -1,0 +1,139 @@
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+ color: white !important;
+ background: #007bff !important;
+ font-weight: bold !important;
+}
+
+table.dataTable tbody th, table.dataTable tbody td {
+ white-space: nowrap !important;
+ font-size: 15px !important;
+}
+
+#tbl_productos thead th {
+ white-space: nowrap !important;
+}
+
+.addNewRecord {
+ background-color: #198754 !important;
+ color: white !important;
+}
+
+.buttons-excel {
+ background-color: #0d6efd !important;
+ color: white !important;
+}
+
+.buttons-print {
+ background-color: #ffc107 !important;
+ color: white !important;
+}
+
+.dt-button {
+ padding-top: 5px !important;
+ padding-bottom: 5px !important;
+}
+
+
+#tbl_productos tbody tr td{
+ padding: 3px !important;
+}
+
+.transparentbar {
+ background-repeat:no-repeat;
+ cursor:pointer;
+ outline:none;
+ border:none;
+ box-shadow:none; 
+ background-image: none;  
+ background-color: transparent;
+
+}
+
+.btn-check:focus, .btn-primary, .btn-primary:focus {
+ color: #fff;
+ border-color: transparent !important;
+ box-shadow: none !important;
+}
+
+.transparentbar:hover {
+ color: #fff;
+ background-color: transparent !important;
+ border-color: transparent !important;
+}
+
+body:not(.layout-fixed) .main-sidebar {
+ background-color: rgb(49, 49, 216) !important;
+}
+
+.card-title {
+ font-weight: bold !important;
+ color: white !important;
+}
+
+.card-header:first-child {
+ background-color: rgb(23, 162, 184);
+}
+
+.login-page, .register-page {
+ background-color: rgba(164, 203, 255, 0.685) !important;
+}
+
+
+b, strong {
+ font-weight: bolder;
+ color: white !important;
+}
+
+.sidebar {
+ background-color: #3130d8 !important;
+}
+
+[class*=sidebar-dark] .brand-link, [class*=sidebar-dark] .brand-link .pushmenu {
+ background: #3130d8 !important;
+}
+
+.card-header:first-child {
+ background-color: #3130d8 !important;
+}
+
+.sidebar-mini {
+ height: 100vh !important;
+ background-color: #3130d8 !important;
+}
+
+.user-panel, .user-panel .info {
+ background-color: #3130d8 !important;
+}
+
+.layout-fixed .main-sidebar {
+ bottom: 0;
+ float: none;
+ left: 0;
+ position: fixed;
+ top: 0;
+ background-color: #3130d8 !important;
+}
+
+.text-warning {
+ color: white !important;
+}
+
+.fa-minus-circle:before {
+ color: yellow !important;
+}
+
+.card.card-outline-tabs .card-header .nav-item:first-child .nav-link {
+ font-weight: bold !important;
+}
+
+.card-primary.card-outline-tabs>.card-header a.active, .card-primary.card-outline-tabs>.card-header a.active:hover {
+ font-weight: bold !important;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+ font-weight: bold !important;
+}
+
+.fa-cart-arrow-down:before {
+ color: yellow !important;
+}
